@@ -1,0 +1,12 @@
+VERTEX,LOCATION,TARGET1,TARGET2,TARGET3,TARGET4,TARGET5
+Quantum Flagship,Europe,BeQuantum,ICTP,TQT,None,None
+Open Quantum Institute,Geneva,ICTP,None,None,None,None
+Cern Open Lab,Geneva,BeQuantum,None,None,None,None
+NTT,Global,None,None,None,None,None
+IBM,Global,None,None,None,None,None
+ICTP,Italy,TQT,None,None,None,None
+BeQuantum,Italy,QCJC,Quantum Flagship,Cern Open Lab,None,None
+DWave,"North America,UK,Japan",None,None,None,None,None
+TQT,Trieste,None,None,None,None,None
+QCJC,Turin,BeQuantum,None,None,None,None
+Unitary Fund,Virtual,None,None,None,None,None
