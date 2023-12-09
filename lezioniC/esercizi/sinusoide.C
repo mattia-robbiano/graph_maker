@@ -19,8 +19,9 @@ int main() {
 
     for (t = 0; t <= period; t += deltaT) {
         sineValue = Amplitude * sin(t * Frequency + Phase);
-        //printf("%f",sineValue);
-        //printf("\n");
+        printf("%f",sineValue);
+        printf("\n");
+/*
         // Scala il valore della sinusoide per adattarlo al range dell'asse verticale
         int scaledValue = (int)((sineValue / Amplitude) * 20);
 
@@ -34,7 +35,7 @@ int main() {
                 printf(" ");
             }
             printf("\n");
-        }
+        }*/
 
     }
 
